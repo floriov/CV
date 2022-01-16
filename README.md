@@ -1,8 +1,12 @@
-## Your Name
+## Vanessa Florio
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a highly motivated and ambitious full-stack software engineer who enjoys to solve problems, think analytically, and aims to extend my programming knowledge further.
+
+After obtaining a bachelor's degree at the University of Warwick and a master's degree at University College London (UCL), I spent a year working in financial audit at a Big4 firm in London. Whilst I was still working full time, I enjoyed working on small coding projects and completing courses on Codecademy in my freetime, which made me discover my passion for programming. I am currently completing a 12-week coding bootcamp at Makers Academy, with the aim of starting a career as a software engineer. 
 
 ## Projects
+
+For a complete list, see my GitHub.
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -11,8 +15,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**KPMG** (2020-2021)  
+Audit Graduate Trainee
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
@@ -53,7 +57,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Dec 2021 - March 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,11 +66,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
 
+
+#### University College London (UCL) (Oct 2019 - July 2020)
+
+International Relations of the Americas (grade obtained: Merit)
 - Subject, any specialisms
 - Grade
 - Other cool stuff
+
+#### University of Warwick (UCL) (Oct 2015 - July 2019)
+
+Politics, International Relations and German (grade obtained: First)
 
 #### Any other qualifications
 
@@ -74,4 +85,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Fitness: going to the gym and filming workout videos to empower and motivate others
+- Music: I enjoy playing the piano and the clarinet, and used to play in the University of Warwick Orchestra
+- Tennis: I love playing tennis with my friends and my brother. I also used to play competitively whilst growing up in Germany.
