@@ -54,6 +54,7 @@ Student Research Assistant
 
 **German Parliament (Bundestag) working for an MP** (2018-2018)
 Intern
+
 * Writing press releases and writings in English and German
 * Editorial processing of texts
 * Research activities on gender equality, the refugee crisis, and the EU
@@ -64,6 +65,7 @@ Intern
 
 **JP Morgan Spring Insight Week** (2017-2017)
 Intern
+
 * Networking and presentation skills sessions
 * Interview and assessment centre workshops
 * Final assessment group presentation on acquisition case study
@@ -80,6 +82,7 @@ Translator
 
 **UBS Spring Insight Program** (2016-2016)
 Intern
+
 * Giving presentations on case studies; working in a team as part of the Assessment Centre
 * Shadowing various employees from different business divisions such as Trading, HR etc.
 * Participating in workshops designed to improve, as well as test, presentation and team working skills.
@@ -88,6 +91,7 @@ Intern
  
 **UBS Internship on the trading floor** (2015-2015) 
 Intern
+
 * Improving the design of the UBS Connections website, by using HTML and uploading content  
 * Creating a newsletter and a poster for the launch of the new website 
 * Working on projects and giving presentations about them in front of line manager and campus ambassadors 
