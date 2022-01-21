@@ -23,6 +23,7 @@ Audit Graduate Trainee
 * Checking that financial reports and records are accurate and reliable, and ensuring procedures, policies and regulations are correctly followed and complied     with. 
 
 
+
 **University College London Volunteering Service** (2019-2020)  
 Administrative Assistant 
 
@@ -30,6 +31,7 @@ Administrative Assistant
 * organised campus volunteering fairs and virtual volunteering events on Microsoft Teams during
 * engaged students and partners with ‘Social Hackathon’ events that improve students’ problem-solving and teamwork skills 
 * designed student volunteering newsletters using HTML
+
 
 
 **European Committee of Regions** (2019-2019)
@@ -40,11 +42,15 @@ Traineeship in the Cabinet of the President
 * creating briefings for the president in French, English and German 
 * conducting research about the political situation of countries the president would travel to 
 
+
+
 **Politics department, University of Warwick** (2018-2018)
 Student Research Assistant 
 
 * worked for my politics department 8 hours per week for 20 weeks by assisting my professor with her research, teaching preparation and enhancing the overall student experience. 
 * The research included topics such as EU scepticism, Brexit and the migration and the refugee crisis. 
+
+
 
 **German Parliament (Bundestag) working for an MP** (2018-2018)
 Intern
@@ -54,11 +60,15 @@ Intern
 * The creation of fact sheets and speech documents for events
 * The content preparation and accompaniment to political events
 
+
+
 **JP Morgan Spring Insight Week** (2017-2017)
 Intern
 * Networking and presentation skills sessions
 * Interview and assessment centre workshops
 * Final assessment group presentation on acquisition case study
+
+
 
 **Milengo Translating German to English** (2017-2017)
 Translator
@@ -66,11 +76,15 @@ Translator
 * Marketing translations: Translating marketing items and descriptions from German into English
 * Using the programme ‘memoQ’ as a database for the translations
 
+
+
 **UBS Spring Insight Program** (2016-2016)
 Intern
 * Giving presentations on case studies; working in a team as part of the Assessment Centre
 * Shadowing various employees from different business divisions such as Trading, HR etc.
 * Participating in workshops designed to improve, as well as test, presentation and team working skills.
+ 
+ 
  
 **UBS Internship on the trading floor** (2015-2015) 
 Intern
@@ -79,44 +93,29 @@ Intern
 * Working on projects and giving presentations about them in front of line manager and campus ambassadors 
 * Desk rotations every week e.g. FX Sales Rates& Credit, FX Derivatives etc 
 
-#### Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
 
-###### Analytical Thinking
+## Skills
+
+#### Analytical Thinking
 * Working as a software engineer, I will have to solve problems on a daily basis, which I love doing. Having
 studied maths and further maths at A Levels as well as working in the financial services sector has
 honed my problem-solving and anayltical skills.
 
+#### Attention to detail
+* As an auditor I looked at company's financial statements, documents, data, and accounting entries and made sure that those were accurate and reflected the true financial situation of the client. 
 
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+##### Communication 
+ * Having worked as an auditor I needed to be able to convey my findings and analysis in a clear and concise way.
+ 
 
 ## Education
 
 #### Makers Academy (Dec 2021 - March 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+* Pair programmed with a different person every day, which honed my teamwork and communication skills. 
+* Using a TDD approach to my code for good test coverage and having to spend less time debugging in the final stages.
+- Ruby, SQL,  JavaScript
+- RSpec
 
 #### University College London (UCL) (Oct 2019 - July 2020)
 
@@ -128,17 +127,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * Politics, International Relations and German
 - grade obtained: First
 
-#### Awards
+## Awards
 
 * Frankfurter Translation Prize for German Translation 2018/19 from the University of Warwick
 * St. Paul’s Way Trust Foundation Award 2013 for ‘Vision’
 
-#### Languages
+## Languages
 * Native in German and English
 * Fluent in Italian 
 * French B2 level
 
-#### Hobbies
+## Hobbies
 
 * Fitness: going to the gym and filming workout videos hoping to empower and motivate others.
 * Music: I enjoy playing the piano and the clarinet. I used to play in the University of Warwick Orchestra.
