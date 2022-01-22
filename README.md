@@ -11,7 +11,7 @@ For a complete list, see my GitHub.
 | Name                         | Description              | Tech/tools            |
 | ---------------------------- | -----------------        | -----------------     |
 | **Final project**                                             |                          |                       |
-| **[Makersbnb](https://github.com/floriov/Makersbnb-Group-4)** | A webapp clone of Airbnb | Ruby, CSS, SQL        |            
+| **[Makersbnb](https://github.com/floriov/Makersbnb-Group-4)** | A webapp clone of Airbnb | Ruby, Sinatra, PSQL, HTML, CSS        |            
 
 ## Work Experience
 
