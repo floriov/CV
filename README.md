@@ -109,7 +109,7 @@ honed my problem-solving and anayltical skills.
 #### Attention to detail
 * As an auditor I looked at company's financial statements, documents, data, and accounting entries and made sure that those were accurate and reflected the true financial situation of the client. 
 
-##### Communication 
+#### Communication 
  * Having worked as an auditor I needed to be able to convey my findings and analysis in a clear and concise way.
  
 
