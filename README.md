@@ -11,7 +11,9 @@ For a complete list, see my GitHub.
 | Name                         | Description              | Tech/tools            |
 | ---------------------------- | -----------------        | -----------------     |
 | **Final project**                                             |                          |                       |
-| **[Makersbnb](https://github.com/floriov/Makersbnb-Group-4)** | A webapp clone of Airbnb | Ruby, Sinatra, PSQL, HTML, CSS        |            
+| **[Makersbnb](https://github.com/floriov/Makersbnb-Group-4)** | A webapp clone of Airbnb | Ruby, Sinatra, PSQL, HTML, CSS        | 
+| **[Acebook](https://github.com/floriov/acebook-five-aces)** | A webapp clone of Facebook | Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)   | 
+
 
 ## Work Experience
 
