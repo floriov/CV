@@ -118,10 +118,14 @@ honed my problem-solving and anayltical skills.
 ## Education
 
 #### Makers Academy (Dec 2021 - March 2022)
-* Pair programmed with a different person every day, which honed my teamwork and communication skills. 
-* Using a TDD approach to my code for good test coverage and having to spend less time debugging in the final stages.
-- Ruby, SQL,  JavaScript
-- RSpec
+
+* TDD: Applying outside-in Test Driven Development and Behaviour Driven Development
+* OOP: Application of OOD and SOLID principles
+* Agile & XP: Running stand-ups, retros, sprints, creating MVPs and user stories, to deliver maximum value
+* Databases: Relational and non-relational: SQL and PostgreSQL
+* REST APIs: Building APIs using Ruby and Rails
+* CI/CD: Using Github Actions to automate automate builds, run test suites and generate coverage reports
+* Pair Programming: Highly effective at collaborating and pairing with other developers
 
 #### University College London (UCL) (Oct 2019 - July 2020)
 
@@ -132,6 +136,10 @@ honed my problem-solving and anayltical skills.
 
 * Politics, International Relations and German
 - grade obtained: First
+
+## Certificate
+
+*
 
 ## Awards
 
@@ -147,4 +155,4 @@ honed my problem-solving and anayltical skills.
 
 * Fitness: going to the gym and filming workout videos hoping to empower and motivate others.
 * Music: I enjoy playing the piano and the clarinet. I used to play in the University of Warwick Orchestra.
-* Tennis: I love playing tennis with my friends and my brother. I also used to play competitively whilst growing up in Germany.
+* Tennis: I love playing tennis with my friends and family. I used to play competitively whilst growing up in Germany.
