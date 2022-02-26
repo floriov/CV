@@ -2,7 +2,7 @@
 
 I am a highly motivated and ambitious full-stack software engineer who enjoys to solve problems, think analytically, and aims to extend their programming knowledge further.
 
-After obtaining a bachelor's degree at the University of Warwick and a master's degree at University College London (UCL), I started working as a financial auditor at a Big4 firm in London. Whilst I was still working full time, I enjoyed working on small coding projects and completing courses on Codecademy in my freetime, which made me discover my passion for programming. I am currently completing a 12-week coding bootcamp at Makers Academy, with the aim of starting a career as a software engineer. 
+After obtaining a bachelor's degree at the University of Warwick and a master's degree at University College London (UCL), I started working as a financial auditor at a Big4 firm in London. Whilst I was still working full time, I enjoyed working on small coding projects and completing courses on Codecademy in my free time, which made me discover my passion for programming. I am currently completing a 12-week coding bootcamp at Makers Academy, with the aim of starting a career as a software engineer. 
 
 Please find my CV here: [Vanessa Florio CV](https://github.com/floriov/CV/files/8127175/Vanessa.Florio.CV.2022.docx)
 
