@@ -119,15 +119,15 @@ Intern
 For my final group project [Pair Pro](https://github.com/floriov/pair-pro), I learned React, Node.js, Express and MongoDb without it being taught on the course and used it to build a fully-functioning website in 10 days. 
 
 #### Analytical Thinking
-* Working as a software engineer, I will have to solve problems on a daily basis, which I love doing. Having
+ Working as a software engineer, I will have to solve problems on a daily basis, which I love doing. Having
 studied maths and further maths at A Levels as well as working in the financial services sector has
 honed my problem-solving and anayltical skills.
 
 #### Attention to detail
-* As an auditor I looked at company's financial statements, documents, data, and accounting entries and made sure that those were accurate and reflected the true financial situation of the client. 
+As an auditor I looked at company's financial statements, documents, data, and accounting entries and made sure that those were accurate and reflected the true financial situation of the client. 
 
 #### Communication 
- * Having worked as an auditor I needed to be able to convey my findings and analysis in a clear and concise way.
+ Having worked as an auditor I needed to be able to convey my findings and analysis in a clear and concise way.
  
 
 ## Education
