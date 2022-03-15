@@ -4,7 +4,7 @@ I am a highly motivated and ambitious full-stack software engineer who enjoys to
 
 After obtaining a bachelor's degree at the University of Warwick and a master's degree at University College London (UCL), I started working as a financial auditor at a Big4 firm in London. Whilst I was still working full time, I enjoyed working on small coding projects and completing courses on Codecademy in my free time, which made me discover my passion for programming. I am currently completing a 12-week coding bootcamp at Makers Academy, with the aim of starting a career as a software engineer. 
 
-Please find my CV here: [Vanessa Florio CV]()
+Please find my CV here: [Vanessa Florio CV](https://github.com/floriov/CV/files/8252591/Vanessa_Florio.CV.2022.pdf)
 
 
 ## Projects
@@ -23,8 +23,7 @@ For a complete list, see my GitHub.
 **KPMG** (2020-2021)  
 Audit Graduate Trainee
 
-* Working on e[Vanessa_Florio CV 2022.pdf](https://github.com/floriov/CV/files/8252591/Vanessa_Florio.CV.2022.pdf)
-ngagements and examining the client’s accounts and financial control system
+* Working on engagements and examining the client’s accounts and financial control system
 * Gauging levels of financial risk of the client and preparing reports, commentaries and financial statements. 
 * Checking that financial reports and records are accurate and reliable, and ensuring procedures, policies and regulations are correctly followed and complied     with. 
 
