@@ -1,7 +1,7 @@
 <h1 align="center"> Vanessa Florio</h1>
 
 
-[Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Languages](#languages) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/vanessa-florio-73a495100/) | [Coding Journey - Blog](https://medium.com/@vanessarosef) | 
+
 
 I am a highly motivated and ambitious full-stack software engineer who enjoys to solve problems, think analytically, and aims to extend their programming knowledge further.
 
@@ -12,6 +12,8 @@ As a Makers Graduate, I am looking forward to the new challenge of developing my
 **Please find my CV here:** [Vanessa Florio CV](https://github.com/floriov/CV/files/8252591/Vanessa_Florio.CV.2022.pdf)
 
 **Tech Skills** : Ruby, Rails, JavaScript, React, MongoDB, PostgreSQL, Node.js, Express, HTML, CSS, Bootstrap, Heroku, Github Actions (CI/CD)
+
+[Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Languages](#languages) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/vanessa-florio-73a495100/) | [Coding Journey - Blog](https://medium.com/@vanessarosef) | 
 
 
 ## Projects
@@ -112,6 +114,9 @@ Intern
 
 
 ## Skills
+
+#### Fast learner
+For my final group project [Pair Pro](https://github.com/floriov/pair-pro), I learned React, Node.js, Express and MongoDb without it being taught on the course and used it to build a fully-functioning website in 10 days. 
 
 #### Analytical Thinking
 * Working as a software engineer, I will have to solve problems on a daily basis, which I love doing. Having
