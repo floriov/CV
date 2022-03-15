@@ -1,7 +1,7 @@
 <h1 align="center"> Vanessa Florio</h1>
 
 
-[Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Languages](#languages) | [Hobbies](#hobbies) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Coding Journey - Blog](https://medium.com/@vanessarosef) |
+[Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Languages](#languages) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/vanessa-florio-73a495100/) | [Coding Journey - Blog](https://medium.com/@vanessarosef) | 
 
 I am a highly motivated and ambitious full-stack software engineer who enjoys to solve problems, think analytically, and aims to extend their programming knowledge further.
 
