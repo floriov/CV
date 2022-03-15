@@ -143,10 +143,6 @@ honed my problem-solving and anayltical skills.
 * Politics, International Relations and German
 - grade obtained: First
 
-## Certificate
-
-*
-
 ## Awards
 
 * Frankfurter Translation Prize for German Translation 2018/19 from the University of Warwick
