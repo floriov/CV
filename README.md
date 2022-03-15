@@ -1,4 +1,4 @@
-## Vanessa Florio
+<h1 align="center"> Vanessa Florio</h1>
 
 I am a highly motivated and ambitious full-stack software engineer who enjoys to solve problems, think analytically, and aims to extend their programming knowledge further.
 
@@ -6,7 +6,9 @@ After obtaining a bachelor's degree at the University of Warwick and a master's 
 
 As a Makers Graduate, I am looking forward to the new challenge of developing my craft, building meaningful products and solving interesting problems each day. I am excited to bring my passion and curiosity to a team that I can learn from and grow with.
 
-Please find my CV here: [Vanessa Florio CV](https://github.com/floriov/CV/files/8252591/Vanessa_Florio.CV.2022.pdf)
+**Please find my CV here:** [Vanessa Florio CV](https://github.com/floriov/CV/files/8252591/Vanessa_Florio.CV.2022.pdf)
+
+**Tech Skills** : Ruby, Rails, JavaScript, React, MongoDB, PostgreSQL, Node.js, Express, HTML, CSS, Bootstrap, Heroku, Github Actions (CI/CD)
 
 
 ## Projects
@@ -22,7 +24,7 @@ For a complete list, see my GitHub.
 
 ## Work Experience
 
-**KPMG** (2020-2021)  
+**KPMG** (2020-2021)  <br>
 Audit Graduate Trainee
 
 * Working on engagements and examining the client’s accounts and financial control system
@@ -31,7 +33,7 @@ Audit Graduate Trainee
 
 
 
-**University College London Volunteering Service** (2019-2020)  
+**University College London Volunteering Service** (2019-2020)  <br>
 Administrative Assistant 
 
 * helped engage UCL students in volunteering projects by liaising with over 400 organisations and charities across London
@@ -41,7 +43,7 @@ Administrative Assistant
 
 
 
-**European Committee of Regions** (2019-2019)
+**European Committee of Regions** (2019-2019)<br>
 Traineeship in the Cabinet of the President 
 
 * proofreading and editing letters 
@@ -51,7 +53,7 @@ Traineeship in the Cabinet of the President
 
 
 
-**Politics department, University of Warwick** (2018-2018)
+**Politics department, University of Warwick** (2018-2018)<br>
 Student Research Assistant 
 
 * worked for my politics department 8 hours per week for 20 weeks by assisting my professor with her research, teaching preparation and enhancing the overall student experience. 
@@ -59,7 +61,7 @@ Student Research Assistant
 
 
 
-**German Parliament (Bundestag) working for an MP** (2018-2018)
+**German Parliament (Bundestag) working for an MP** (2018-2018)<br>
 Intern
 
 * Writing press releases and writings in English and German
@@ -70,7 +72,7 @@ Intern
 
 
 
-**JP Morgan Spring Insight Week** (2017-2017)
+**JP Morgan Spring Insight Week** (2017-2017)<br>
 Intern
 
 * Networking and presentation skills sessions
@@ -79,7 +81,7 @@ Intern
 
 
 
-**Milengo Translating German to English** (2017-2017)
+**Milengo Translating German to English** (2017-2017)<br>
 Translator
 
 * Marketing translations: Translating marketing items and descriptions from German into English
@@ -87,7 +89,7 @@ Translator
 
 
 
-**UBS Spring Insight Program** (2016-2016)
+**UBS Spring Insight Program** (2016-2016)<br>
 Intern
 
 * Giving presentations on case studies; working in a team as part of the Assessment Centre
@@ -96,7 +98,7 @@ Intern
  
  
  
-**UBS Internship on the trading floor** (2015-2015) 
+**UBS Internship on the trading floor** (2015-2015) <br>
 Intern
 
 * Improving the design of the UBS Connections website, by using HTML and uploading content  
@@ -133,14 +135,12 @@ honed my problem-solving and anayltical skills.
 * Pair Programming: Highly effective at collaborating and pairing with other developers
 
 #### University College London (UCL) (Oct 2019 - July 2020)
-
-* International Relations of the Americas 
- - grade obtained: Merit
+International Relations of the Americas <br>
+grade: Merit
 
 #### University of Warwick (Oct 2015 - July 2019)
-
-* Politics, International Relations and German
-- grade obtained: First
+Politics, International Relations and German <br>
+grade: First
 
 ## Awards
 
