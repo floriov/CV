@@ -18,8 +18,7 @@ For a complete list, see my GitHub.
 | **[PairPro](https://github.com/floriov/pair-pro)**  | A web app where software engineers can connect to pair program together      |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
 | **[Acebook](https://github.com/floriov/acebook-five-aces)**|   A webapp clone of Facebook     |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
 | **[Makersbnb](https://github.com/floriov/Makersbnb-Group-4)**  |  A webapp clone of Airbnb       |  Ruby, Sinatra, PSQL, HTML, CSS  |
-
-
+    
 
 ## Work Experience
 
