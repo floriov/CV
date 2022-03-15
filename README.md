@@ -1,5 +1,8 @@
 <h1 align="center"> Vanessa Florio</h1>
 
+
+[Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Languages](#languages) | [Hobbies](#hobbies) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Coding Journey - Blog](https://medium.com/@vanessarosef) |
+
 I am a highly motivated and ambitious full-stack software engineer who enjoys to solve problems, think analytically, and aims to extend their programming knowledge further.
 
 After obtaining a bachelor's degree at the University of Warwick and a master's degree at University College London (UCL), I started working as a financial auditor at a Big4 firm in London. Whilst I was still working full time, I enjoyed working on small coding projects and completing courses on Codecademy in my free time, which made me discover my passion for programming. 
