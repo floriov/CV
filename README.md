@@ -1,6 +1,13 @@
 <h1 align="center"> Vanessa Florio</h1>
 
+<div align="center">
+ <a href="https://www.linkedin.com/in/vanessa-florio-73a495100/">
+    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
+ <a href="https://medium.com/@vanessarosef">
+    <img alt="medium" title="medium blog" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><br> <br> 
 
+ </div>
 
 
 I am a highly motivated and ambitious full-stack software engineer who enjoys to solve problems, think analytically, and aims to extend their programming knowledge further.
@@ -12,7 +19,6 @@ As a Makers Graduate, I am looking forward to the new challenge of developing my
 **Tech Skills** : Ruby, Rails, JavaScript, React, MongoDB, PostgreSQL, Node.js, Express, HTML, CSS, Bootstrap, Heroku, Github Actions (CI/CD)
 
 **Please find my CV here:** [Vanessa Florio CV](https://github.com/floriov/CV/files/8252591/Vanessa_Florio.CV.2022.pdf) <br>
-**Here are some additional links you might be interested in:** [LinkedIn](https://www.linkedin.com/in/vanessa-florio-73a495100/), [Coding Journey - Blog](https://medium.com/@vanessarosef) 
 
 
 
