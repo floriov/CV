@@ -12,7 +12,7 @@ As a Makers Graduate, I am looking forward to the new challenge of developing my
 **Tech Skills** : Ruby, Rails, JavaScript, React, MongoDB, PostgreSQL, Node.js, Express, HTML, CSS, Bootstrap, Heroku, Github Actions (CI/CD)
 
 **Please find my CV here:** [Vanessa Florio CV](https://github.com/floriov/CV/files/8252591/Vanessa_Florio.CV.2022.pdf) <br>
-**Here are some additional links you might be interested in:** [LinkedIn](https://www.linkedin.com/in/vanessa-florio-73a495100/),[Coding Journey - Blog](https://medium.com/@vanessarosef) |
+**Here are some additional links you might be interested in:** [LinkedIn](https://www.linkedin.com/in/vanessa-florio-73a495100/), [Coding Journey - Blog](https://medium.com/@vanessarosef) 
 
 
 
@@ -23,7 +23,7 @@ As a Makers Graduate, I am looking forward to the new challenge of developing my
 
 | Name                         | Description        | Timeframe             | Tech/tools            |
 | ---------------------------- | -----------------   | --------------                | -----------------     |
-| **[PairPro](https://github.com/floriov/pair-pro)**  | I came up with the idea of Pair Pro, which is a web app where software engineers can connect to pair program together |  10 Days   |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
+| **[PairPro](https://github.com/floriov/pair-pro)**  | I came up with the idea of Pair Pro for the final group project. Pair Pro is a web app where software engineers can connect to pair program together |  10 Days   |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
 | **[Acebook](https://github.com/floriov/acebook-five-aces)**|   A webapp clone of Facebook |  10 Days  |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
 | **[Makersbnb](https://github.com/floriov/Makersbnb-Group-4)**  |  A webapp clone of Airbnb  |  5 Days   |  Ruby, Sinatra, PSQL, HTML, CSS  |
     
