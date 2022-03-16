@@ -9,18 +9,21 @@ After obtaining a bachelor's degree at the University of Warwick and a master's 
 
 As a Makers Graduate, I am looking forward to the new challenge of developing my craft, building meaningful products and solving interesting problems each day. I am excited to bring my passion and curiosity to a team that I can learn from and grow with.
 
-**Please find my CV here:** [Vanessa Florio CV](https://github.com/floriov/CV/files/8252591/Vanessa_Florio.CV.2022.pdf)
-
 **Tech Skills** : Ruby, Rails, JavaScript, React, MongoDB, PostgreSQL, Node.js, Express, HTML, CSS, Bootstrap, Heroku, Github Actions (CI/CD)
 
-[Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Languages](#languages) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/vanessa-florio-73a495100/) | [Coding Journey - Blog](https://medium.com/@vanessarosef) | 
+**Please find my CV here:** [Vanessa Florio CV](https://github.com/floriov/CV/files/8252591/Vanessa_Florio.CV.2022.pdf) <br>
+**Here are some additional links you might be interested in:** [LinkedIn](https://www.linkedin.com/in/vanessa-florio-73a495100/),[Coding Journey - Blog](https://medium.com/@vanessarosef) |
+
+
+
+[Projects](#projects) |  [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Languages](#languages) | [Hobbies](#hobbies) |  
 
 
 ## Projects
 
 | Name                         | Description              | Tech/tools            |
 | ---------------------------- | -----------------        | -----------------     |
-| **[PairPro](https://github.com/floriov/pair-pro)**  | A web app where software engineers can connect to pair program together      |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
+| **[PairPro](https://github.com/floriov/pair-pro)**  | I came up with the idea for Pair Pro for the final group project. Pair Pro is a web app where software engineers can connect to pair program together      |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
 | **[Acebook](https://github.com/floriov/acebook-five-aces)**|   A webapp clone of Facebook     |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
 | **[Makersbnb](https://github.com/floriov/Makersbnb-Group-4)**  |  A webapp clone of Airbnb       |  Ruby, Sinatra, PSQL, HTML, CSS  |
     
