@@ -122,34 +122,34 @@ Intern
 
 ## Skills
 
+#### Leadership skills: 
+When working in a team I naturally tend to build a sense of common purpose, be encouraging and empowering and always stay focused on the main objective. I do this by being an active listener, staying positive, building trust with all the members of my team, and having strong time management.
+
+I was able to utilise my experience of leading during my time with Makers when we would have project standups and retros. These meetings would often require some direction and governance to ensure key points were drawn from the discussion. I would often take the lead in these meetings and guide the discussion to maintain productivity and participation by all members. 
+
+#### Quick learner: 
+I am always open to learning new things and always try to better myself in any way I can in both my personal and professional life. From personal experience, for example, when a manager or colleague gives me a task and a brief explanation, I am quick at understanding which steps I need to take to complete that task in an efficient, independent, and timely manner.
+
+For my final group project I came up with the idea for [Pair Pro](https://github.com/floriov/pair-pro). I learned React, Node.js, Express and MongoDb without it being taught on the course and used it to build a fully-functioning website that inlucded a real-time chat in 10 days. 
+
 #### Perseverance: 
 When working on a challenging problem, I am someone who will not stop working until that problem is solved. I am always focused on the main goal and can spend hours working on a task until it is completed. When a task seems impossible at first, I do not give up because I believe that if you work on something hard enough, you will always be able to achieve it.
 
 #### Self-improvement and stepping outside my comfort zone: 
 I am passionate about self-development and self-improvement in both my personal and professional life. I always like to challenge myself with tasks, whether that is with a task at work, or with sports that I do in my spare time. I believe that this is the only way one can truly work on themselves and become better at anything. I get excited when I start a new task that seems daunting at first because after a while I always realise that nothing is truly impossible if you are fully committed and are open to learning new things.
 
-#### Leadership skills: 
-When working in a team I naturally tend to build a sense of common purpose, be encouraging and empowering and always stay focused on the main objective. I do this by being an active listener, staying positive, building trust with all the members of my team, and having strong time management.
-
-#### Quick learner: 
-I am always open to learning new things and always try to better myself in any way I can in both my personal and professional life. From personal experience, for example, when a manager or colleague gives me a task and a brief explanation, I am quick at understanding which steps I need to take to complete that task in an efficient, independent, and timely manner.
-
-For my final group project [Pair Pro](https://github.com/floriov/pair-pro), I learned React, Node.js, Express and MongoDb without it being taught on the course and used it to build a fully-functioning website in 10 days. 
-
-
-#### Well-rounded: 
-I am always keen on trying out new things, learning about different cultures and peoples' life experiences. Outside of my professional life, I love doing sports, speaking different languages (German, Italian and English) and playing instruments such as the clarinet and the piano. I enjoy playing tennis, going on park runs, and posting workout videos on my social media to empower and motivate others to lead a healthy lifestyle. More recently I started a Blog on Medium to document my coding journey at Makers.
-
 #### Analytical Thinking
- Working as a software engineer, I will have to solve problems on a daily basis, which I love doing. Having
+
+Working as a software engineer, I will have to solve problems on a daily basis, which I love doing. Having
 studied maths and further maths at A-Levels as well as working in the financial services sector has
 honed my problem-solving and anayltical skills.
 
 #### Attention to detail
-As an auditor I looked at company's financial statements, documents, data, and accounting entries and made sure that those were accurate and reflected the true financial situation of the client. 
+I’ve always had a keen eye for detail and it played a crucial role in my previous employment with KPMG. As an auditor I inspected the company’s internal controls to manage risk exposures as well as ensuring the effectiveness of operational and financial reporting. My ability to pick up on precise detail transferred excellently into programming and my journey through Makers. During my pairing sessions, I would often solve blockers by spotting innaccuracies in our code and overcoming errors, allowing us to progress further through the research materials.
+
 
 #### Communication 
- Having worked as an auditor I needed to be able to convey my findings and analysis in a clear and concise way.
+During my role at KPMG, I built a strong rapport with people that I worked with. These included the clients, the top management, co-auditors, and other staff within the business. This enabled me to hone my communication skills further as well as ensuring a harmonious working relationship in a fast-paced environment. This experience and knowledge was very beneficial during Makers, since it allowed me to build rapport with other members of my engineering team when working under pressure nearing project deadlines.
  
 
 ## Education
