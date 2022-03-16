@@ -130,7 +130,7 @@ I was able to utilise my experience of leading during my time with Makers when w
 #### Quick learner: 
 I am always open to learning new things and always try to better myself in any way I can in both my personal and professional life. From personal experience, for example, when a manager or colleague gives me a task and a brief explanation, I am quick at understanding which steps I need to take to complete that task in an efficient, independent, and timely manner.
 
-For my final group project I came up with the idea for [Pair Pro](https://github.com/floriov/pair-pro). I learned React, Node.js, Express and MongoDb without it being taught on the course and used it to build a fully-functioning website that inlucded a real-time chat in 10 days. 
+I came up with the idea for [Pair Pro](https://github.com/floriov/pair-pro) for the final group project at Makers. I learned React, Node.js, Express and MongoDb without it being taught on the course and used it to build a fully-functioning website that inlucded a real-time chat in 10 days. 
 
 #### Perseverance: 
 When working on a challenging problem, I am someone who will not stop working until that problem is solved. I am always focused on the main goal and can spend hours working on a task until it is completed. When a task seems impossible at first, I do not give up because I believe that if you work on something hard enough, you will always be able to achieve it.
