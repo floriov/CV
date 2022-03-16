@@ -135,6 +135,8 @@ I came up with the idea for [Pair Pro](https://github.com/floriov/pair-pro) for 
 #### Perseverance: 
 When working on a challenging problem, I am someone who will not stop working until that problem is solved. I am always focused on the main goal and can spend hours working on a task until it is completed. When a task seems impossible at first, I do not give up because I believe that if you work on something hard enough, you will always be able to achieve it.
 
+For instance, one day before the presentation deadline for the [Acebook](https://github.com/floriov/acebook-five-aces) project, the team was still facing deployment issues with Heroku. I took the iniative to continue researching the errors and to try and understand what was going wrong. On the next day, half an hour before the presentation, I realised that the database was not set up correctly and linked to Heroku. I quickly researched the commands and was able to deploy our app just in time for our presentation.  
+
 #### Self-improvement and stepping outside my comfort zone: 
 I am passionate about self-development and self-improvement in both my personal and professional life. I always like to challenge myself with tasks, whether that is with a task at work, or with sports that I do in my spare time. I believe that this is the only way one can truly work on themselves and become better at anything. I get excited when I start a new task that seems daunting at first because after a while I always realise that nothing is truly impossible if you are fully committed and are open to learning new things.
 
