@@ -127,7 +127,7 @@ For my final group project [Pair Pro](https://github.com/floriov/pair-pro), I le
 
 #### Analytical Thinking
  Working as a software engineer, I will have to solve problems on a daily basis, which I love doing. Having
-studied maths and further maths at A Levels as well as working in the financial services sector has
+studied maths and further maths at A-Levels as well as working in the financial services sector has
 honed my problem-solving and anayltical skills.
 
 #### Attention to detail
