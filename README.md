@@ -18,8 +18,6 @@ As a Makers Graduate, I am looking forward to the new challenge of developing my
 
 ## Projects
 
-For a complete list, see my GitHub.
-
 | Name                         | Description              | Tech/tools            |
 | ---------------------------- | -----------------        | -----------------     |
 | **[PairPro](https://github.com/floriov/pair-pro)**  | A web app where software engineers can connect to pair program together      |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
