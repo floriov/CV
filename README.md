@@ -21,11 +21,11 @@ As a Makers Graduate, I am looking forward to the new challenge of developing my
 
 ## Projects
 
-| Name                         | Description              | Tech/tools            |
-| ---------------------------- | -----------------        | -----------------     |
-| **[PairPro](https://github.com/floriov/pair-pro)**  | I came up with the idea for Pair Pro for the final group project. Pair Pro is a web app where software engineers can connect to pair program together      |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
-| **[Acebook](https://github.com/floriov/acebook-five-aces)**|   A webapp clone of Facebook     |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
-| **[Makersbnb](https://github.com/floriov/Makersbnb-Group-4)**  |  A webapp clone of Airbnb       |  Ruby, Sinatra, PSQL, HTML, CSS  |
+| Name                         | Description        | Timeframe             | Tech/tools            |
+| ---------------------------- | -----------------   | --------------                | -----------------     |
+| **[PairPro](https://github.com/floriov/pair-pro)**  | I came up with the idea of Pair Pro, which is a web app where software engineers can connect to pair program together |  10 Days   |  React, MongoDB, NodeJS, Express, Github Actions, CSS, Heroku    |
+| **[Acebook](https://github.com/floriov/acebook-five-aces)**|   A webapp clone of Facebook |  10 Days  |  Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)  |
+| **[Makersbnb](https://github.com/floriov/Makersbnb-Group-4)**  |  A webapp clone of Airbnb  |  5 Days   |  Ruby, Sinatra, PSQL, HTML, CSS  |
     
 
 ## Work Experience
