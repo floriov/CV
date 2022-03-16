@@ -122,8 +122,23 @@ Intern
 
 ## Skills
 
-#### Fast learner
+#### Perseverance: 
+When working on a challenging problem, I am someone who will not stop working until that problem is solved. I am always focused on the main goal and can spend hours working on a task until it is completed. When a task seems impossible at first, I do not give up because I believe that if you work on something hard enough, you will always be able to achieve it.
+
+#### Self-improvement and stepping outside my comfort zone: 
+I am passionate about self-development and self-improvement in both my personal and professional life. I always like to challenge myself with tasks, whether that is with a task at work, or with sports that I do in my spare time. I believe that this is the only way one can truly work on themselves and become better at anything. I get excited when I start a new task that seems daunting at first because after a while I always realise that nothing is truly impossible if you are fully committed and are open to learning new things.
+
+#### Leadership skills: 
+When working in a team I naturally tend to build a sense of common purpose, be encouraging and empowering and always stay focused on the main objective. I do this by being an active listener, staying positive, building trust with all the members of my team, and having strong time management.
+
+#### Quick learner: 
+I am always open to learning new things and always try to better myself in any way I can in both my personal and professional life. From personal experience, for example, when a manager or colleague gives me a task and a brief explanation, I am quick at understanding which steps I need to take to complete that task in an efficient, independent, and timely manner.
+
 For my final group project [Pair Pro](https://github.com/floriov/pair-pro), I learned React, Node.js, Express and MongoDb without it being taught on the course and used it to build a fully-functioning website in 10 days. 
+
+
+#### Well-rounded: 
+I am always keen on trying out new things, learning about different cultures and peoples' life experiences. Outside of my professional life, I love doing sports, speaking different languages (German, Italian and English) and playing instruments such as the clarinet and the piano. I enjoy playing tennis, going on park runs, and posting workout videos on my social media to empower and motivate others to lead a healthy lifestyle. More recently I started a Blog on Medium to document my coding journey at Makers.
 
 #### Analytical Thinking
  Working as a software engineer, I will have to solve problems on a daily basis, which I love doing. Having
